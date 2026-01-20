@@ -1,0 +1,122 @@
+[
+    {
+      "id": "1",
+      "title": "The Shawshank Redemption",
+      "year": 1994,
+      "rating": 9.3,
+      "director": "Frank Darabont",
+      "plot": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+      "imdb_id": "tt0111161",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMDFlYTc0NzItNzEzZi00YWZmLTg0ODctNzc2NTc1NzA4NzQxXkEyXkFjcGdeQXVyMTMzNDExODQ2._V1_SX300.jpg"
+    },
+    {
+      "id": "2",
+      "title": "The Godfather",
+      "year": 1972,
+      "rating": 9.2,
+      "director": "Francis Ford Coppola",
+      "plot": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant youngest son.",
+      "imdb_id": "tt0068646",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNC00MTMyLWFwM2MtN2JlM2RkZjI2NTAyXkEyXkFjcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
+    },
+    {
+      "id": "3",
+      "title": "The Dark Knight",
+      "year": 2008,
+      "rating": 9.0,
+      "director": "Christopher Nolan",
+      "plot": "When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham.",
+      "imdb_id": "tt0468569",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF8yXkEyXkFjcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Pulp Fiction",
+      "year": 1994,
+      "rating": 8.9,
+      "director": "Quentin Tarantino",
+      "plot": "The lives of two mob hitmen, a boxer, a gangster's wife and a pair of diner bandits intertwine in four tales of violence and redemption.",
+      "imdb_id": "tt0110912",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNjNlY2ZkMmEtMzk4Mi00YWE3LTlmZmItZjAwNmU5MDdjMTkwXkEyXkFjcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Forrest Gump",
+      "year": 1994,
+      "rating": 8.8,
+      "director": "Robert Zemeckis",
+      "plot": "The presidencies of Kennedy and Johnson, the Vietnam War, and other historical events unfold from the perspective of an Alabama man with an IQ of 75.",
+      "imdb_id": "tt0109830",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhMzYtMmZwYjZmYWE0NmM3XkEyXkFjcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Inception",
+      "year": 2010,
+      "rating": 8.8,
+      "director": "Christopher Nolan",
+      "plot": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea.",
+      "imdb_id": "tt1375666",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMjAxMzc5MzAxN15BMl5BanBnXkFtZTcwNDk3ODk2Mw@@._V1_SX300.jpg"
+    },
+    {
+      "id": "7",
+      "title": "Fight Club",
+      "year": 1999,
+      "rating": 8.8,
+      "director": "David Fincher",
+      "plot": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
+      "imdb_id": "tt0137523",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNDVkYjU0MzctMzRjOC00ZjZlLWE4ZDYtMzc2ZDZmNzdiY2M1XkEyXkFjcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg"
+    },
+    {
+      "id": "8",
+      "title": "Parasite",
+      "year": 2019,
+      "rating": 8.6,
+      "director": "Bong Joon-ho",
+      "plot": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+      "imdb_id": "tt6751668",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZDctODExOC00ZWZjLTk1ZmEtOTljZWQyNGJhYjk1XkEyXkFjcGdeQXVyODk4OTc3MTY@._V1_SX300.jpg"
+    },
+    {
+      "id": "9",
+      "title": "The Matrix",
+      "year": 1999,
+      "rating": 8.7,
+      "director": "Lana Wachowski, Lilly Wachowski",
+      "plot": "A computer programmer discovers that reality as he knows it is a simulation created by machines to distract humans.",
+      "imdb_id": "tt0133093",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTAwLWI5NTAtNzc4MzExMTUyNTMwXkEyXkFjcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
+    },
+    {
+      "id": "10",
+      "title": "The Usual Suspects",
+      "year": 1995,
+      "rating": 8.5,
+      "director": "Bryan Singer",
+      "plot": "A sole survivor tells of the twisty events leading up to a horrific gun battle on a boat.",
+      "imdb_id": "tt0114814",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYTZiNjk1ODYtNDcwYy00YjQ5LWI4ZTAtMTA5ZWMwY2UxZmZkXkEyXkFjcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg"
+    },
+    {
+      "id": "11",
+      "title": "Interstellar",
+      "year": 2014,
+      "rating": 8.6,
+      "director": "Christopher Nolan",
+      "plot": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+      "imdb_id": "tt0816692",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMTAtNzEwYTZhNjCliN2E3XkEyXkFjcGdeQXVyNzg5OTk2OA@@._V1_SX300.jpg"
+    },
+    {
+      "id": "12",
+      "title": "Se7en",
+      "year": 1995,
+      "rating": 8.6,
+      "director": "David Fincher",
+      "plot": "Two detectives hunt a serial killer who uses the seven deadly sins as his motives.",
+      "imdb_id": "tt0114369",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BOTUwODM5MTctZDQxYi00MjwxLWE3OTEtNGY5YTY5ZDQwNzExXkEyXkFjcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg"
+    }
+  ]

@@ -1,0 +1,11 @@
+tconst	titleType	primaryTitle	originalTitle	isAdult	startYear	endYear	runtimeMinutes	genres
+tt0111161	movie	The Shawshank Redemption	The Shawshank Redemption	0	1994	\N	142	Drama
+tt0068646	movie	The Godfather	The Godfather	0	1972	\N	175	Crime,Drama
+tt0468569	movie	The Dark Knight	The Dark Knight	0	2008	\N	152	Action,Crime,Drama
+tt0110912	movie	Pulp Fiction	Pulp Fiction	0	1994	\N	154	Crime,Drama
+tt0109830	movie	Forrest Gump	Forrest Gump	0	1994	\N	142	Drama,Romance
+tt1375666	movie	Inception	Inception	0	2010	\N	148	Action,Sci-Fi,Thriller
+tt0137523	movie	Fight Club	Fight Club	0	1999	\N	139	Drama
+tt6751668	movie	Parasite	Parasite	0	2019	\N	132	Drama,Thriller
+tt0133093	movie	The Matrix	The Matrix	0	1999	\N	136	Action,Sci-Fi
+tt0114814	movie	The Usual Suspects	The Usual Suspects	0	1995	\N	106	Crime,Drama,Mystery
