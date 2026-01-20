@@ -216,3 +216,5 @@ __marimo__/
 .streamlit/secrets.toml
 config.json
 mailing_list.json
+movies.db
+title.basics.tsv
