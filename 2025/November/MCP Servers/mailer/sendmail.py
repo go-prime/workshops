@@ -73,5 +73,13 @@ def send_email(subject: str, body: str, list_name: str = None, single_email: str
     except smtplib.SMTPAuthenticationError:
         return {"success": False, "message": "SMTP Authentication Error"}
     except Exception as e:
-        return {"success": False, "message": f"Failed to send email: {str(e)}"}def say_goodbye():
+        return {"success": False, "message": f"Failed to send email: {str(e)}"}
+
+def say_hello(name):
+    if not name:
+        raise Exception('name cannot be n')
+    print(f'Hello There {name}')
+    
+
+def say_goodbye():
     print('Goodbye')
