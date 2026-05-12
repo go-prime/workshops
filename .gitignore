@@ -218,3 +218,6 @@ config.json
 mailing_list.json
 movies.db
 title.basics.tsv
+test-results/
+playwright-report/
+node_modules/
